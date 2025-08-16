@@ -1,2 +1,2 @@
-# mondrian-project
-project making mondarian art only using html 
+# Mondrian-Project
+Project making mondarian art only using html 
